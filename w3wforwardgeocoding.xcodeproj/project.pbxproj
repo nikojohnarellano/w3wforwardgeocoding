@@ -13,6 +13,7 @@
 		60B7E2071F8762C3003B2A56 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 60B7E2061F8762C3003B2A56 /* Assets.xcassets */; };
 		60B7E20A1F8762C3003B2A56 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 60B7E2081F8762C3003B2A56 /* LaunchScreen.storyboard */; };
 		60B7E2151F8762C3003B2A56 /* w3wforwardgeocodingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60B7E2141F8762C3003B2A56 /* w3wforwardgeocodingTests.swift */; };
+		60B7E2201F877538003B2A56 /* ForwardGeocodeInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60B7E21F1F877538003B2A56 /* ForwardGeocodeInfo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		60B7E2101F8762C3003B2A56 /* w3wforwardgeocodingTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = w3wforwardgeocodingTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		60B7E2141F8762C3003B2A56 /* w3wforwardgeocodingTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = w3wforwardgeocodingTests.swift; sourceTree = "<group>"; };
 		60B7E2161F8762C3003B2A56 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		60B7E21F1F877538003B2A56 /* ForwardGeocodeInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForwardGeocodeInfo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				60B7E2061F8762C3003B2A56 /* Assets.xcassets */,
 				60B7E2081F8762C3003B2A56 /* LaunchScreen.storyboard */,
 				60B7E20B1F8762C3003B2A56 /* Info.plist */,
+				60B7E21F1F877538003B2A56 /* ForwardGeocodeInfo.swift */,
 			);
 			path = w3wforwardgeocoding;
 			sourceTree = "<group>";
@@ -201,6 +204,7 @@
 			files = (
 				60B7E2021F8762C3003B2A56 /* ViewController.swift in Sources */,
 				60B7E2001F8762C3003B2A56 /* AppDelegate.swift in Sources */,
+				60B7E2201F877538003B2A56 /* ForwardGeocodeInfo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
